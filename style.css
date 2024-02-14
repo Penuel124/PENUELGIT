@@ -1,0 +1,20 @@
+*{
+    margin: 0%; padding: 0%;
+}
+
+#p1{
+    background-color: black; color: white; height: 15%;word-spacing: 09px;width: 100%;
+}
+#p2{
+    word-spacing: 9px;
+}
+#div1{
+    float: left; width: 50%;margin: 1%;border: 3px;
+}
+#div2{
+    float: left; width: 25%;margin-left: 2%; margin-top: 2%; border: 3px;
+}
+#div3{
+    float: right; width: 15%; margin-right: 5%; margin-top: 2%;
+}
+
